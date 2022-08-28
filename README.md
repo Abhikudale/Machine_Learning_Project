@@ -1,5 +1,5 @@
 # Machine_Learning_Project
-This is first machine learning project
+Predict House Price
 ### Requirements:-
 1.Github Account
 2.Heroku Account
